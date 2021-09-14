@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(90deg, #6FCFD0, #9999EF);
+}
+
+#head {
+    background-color: #ff4d38;
+    color: rgba(61, 6, 6, 0.938);
+    border-radius: 20px;
+    font-family: arial;
+    margin: 25px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+
+button {
+    background-color: #2f7ce8;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+    font-size: 19px;
+    width: 200px;
+    height: 100px;
+
+}
+
+div {
+    text-align: center;
+}
